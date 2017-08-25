@@ -3,6 +3,6 @@
     "authDomain": "manager-da8a6.firebaseapp.com",
     "databaseURL": "https://manager-da8a6.firebaseio.com",
     "projectId": "manager-da8a6",
-    "storageBucket": "",
+    "storageBucket": "manager-da8a6.appspot.com",
     "messagingSenderId": "203664491012"
 }
